@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProgrammerGoku
+- 👋 Hi, My name is Gokul Ram Subramani
 - 👀 I’m interested in coding,machine learning
-- 🌱 I’m currently learning Coding using python,DBMS
+- 🌱 I’m currently learning Coding using python,DBMS and web development
 - 📫 You can reach me through my mail:gokul.subramani33@gmail.com
