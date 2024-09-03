@@ -1,2 +1,2 @@
-- 👋 Hi, My name is Gokul Ram Subramani
-- 📫 You can reach me through my mail:gokul.subramani33@gmail.com
+- 👋 Hi, This is Gokul Ram Subramani. Welcome to my Git Repo
+
